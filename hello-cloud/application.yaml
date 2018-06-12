@@ -1,1 +1,4 @@
 from: git-prod-5.0
+endpoints:
+  metrics:
+    enabled: false
